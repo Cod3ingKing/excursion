@@ -21,3 +21,9 @@ body {
     color: aquamarine;
     margin-left: 16px;
   }
+
+  .footer {
+    color: grey;
+    margin-left: 16px;
+    text-align: right;
+  }
